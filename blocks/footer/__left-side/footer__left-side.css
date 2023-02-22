@@ -1,0 +1,11 @@
+.footer__left-side{
+    display: flex;
+    align-items: center;
+}
+@media screen and (max-width: 767px) {
+    .footer__left-side{
+        flex-direction: column;
+        align-items: start;
+    }
+    
+}

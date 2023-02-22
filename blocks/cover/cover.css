@@ -1,0 +1,40 @@
+.cover{
+    position: relative;
+    width: calc(100% - 48px*2);
+    max-width: 1184px;
+    min-height: 740px;
+    color: #FFFFFF;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    box-sizing: border-box;
+    z-index: 0;
+    margin-top: 108px;
+
+}
+@media screen and (max-width: 1279px) {
+    .cover{
+        max-width: 1024px;
+        width:100%;
+        min-height: 640px;
+        margin-top: 92px;
+    }
+    
+}
+@media screen and (max-width: 1023px) {
+    .cover{
+        min-height: 480px;
+        margin-top: 90px;
+    }
+    
+}
+
+@media screen and (max-width: 767px) {
+    .cover{
+        min-height: 200px;
+        margin-top: 66px;
+    }
+    
+}
+

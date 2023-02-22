@@ -1,0 +1,25 @@
+.section__normal{
+    width: calc(100% - 48px*2);
+    max-width: 1280px;
+    margin: 0 auto;
+}
+@media screen and (max-width: 1279px) {
+    .section__normal{
+        width: calc(100% - 48px*2);
+        max-width: 1279px;}
+    }
+@media screen and (max-width: 1024px) {
+        .section__normal{
+            width: calc(100% - 24px*2);
+            max-width: 1279px;
+        }
+        
+    
+}
+@media screen and (max-width: 767px) {
+    .section__normal{
+        width: calc(100% - 16px*2);
+        max-width: 100%
+    }
+    
+}
