@@ -5,4 +5,4 @@
 
 Для осуществелния адаптивной вёрстки используются такие технологии как медиа-запрос и относитлеьный единицы измерения
 
-ссылка на сайт: https://riabykhartem.github.io/russian-travel/
+ссылка на сайт:  https://riabykhartem.github.io/russian-travel/
