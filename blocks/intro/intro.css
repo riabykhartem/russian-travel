@@ -3,6 +3,13 @@
     margin: 0 auto;
     max-width: 984px;
     margin-top: 92px;
+    width: calc(100% - 148px*2);
+
+}
+@media screen and (max-width:1279px) {
+    .intro{
+        width: calc(100% - 48px*2);
+    }
 }
 @media screen and (max-width:1023px) {
     .intro{
