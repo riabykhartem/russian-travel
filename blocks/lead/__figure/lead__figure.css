@@ -1,0 +1,9 @@
+.lead__figure{
+    margin: 64px 0 0 0;
+}
+@media screen and (max-width: 767px) {
+    .lead__figure{
+        margin-top: 40px;
+    }
+    
+}
